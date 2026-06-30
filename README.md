@@ -3,7 +3,7 @@ This project is intended for learning web automation techniques and should be us
 
 ## How to run it?
 1. Install python
-2. Create `.env` from `.env.sample`, Fill in your information.
+2. Create `.env` from `.env.sample`, Fill in your information. (IV means immigration and NIV means non-immigration)
 3. Run the script
 ```bash
 conda create -n webbot python=3.10
